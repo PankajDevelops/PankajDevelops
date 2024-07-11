@@ -62,4 +62,4 @@
 <br/><br/><br/>
 
 <br/><br/><br/>
-<p><img align="left" width="540px" height="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajdevelops&theme=rose" alt="pankajdevelops" /></p>
+<p><img align="left" width="520px" height="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajdevelops&theme=rose" alt="pankajdevelops" /></p>
