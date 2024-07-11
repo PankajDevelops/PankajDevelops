@@ -1,11 +1,17 @@
 ![MasterHead](https://camo.githubusercontent.com/4c2034f05e9401dd378444ddf4d41faa4064faffbb6d761e7ceee24eadf7aa12/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajdevelops&label=Profile%20views&color=0e75b6&style=flat" alt="pankajdevelops" /> </p>
+
 <h1> Note: Profile is not fully finalize <h1>
-<h1 align="center">Hi 👋, there Pankaj here !!!</h1>
+  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pankaj+Kumar!;" />
+</h1>
+<!-- <h1 align="center">Hi 👋, there Pankaj here !!!</h1> -->
 <h3 align="center">A passionate tech enthusiasm from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajdevelops&label=Profile%20views&color=0e75b6&style=flat" alt="pankajdevelops" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/motionhitech" target="blank"><img src="https://img.shields.io/twitter/follow/motionhitech?logo=twitter&style=for-the-badge" alt="motionhitech" /></a> </p>
 
