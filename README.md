@@ -58,7 +58,7 @@
 <br/><br/><br/>
 <p><img align="right" width="280px" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajdevelops&show_icons=true&locale=en&layout=pie&theme=rose&langs_count=8" alt="pankajdevelops" /></p>
 
-<p>&nbsp;<img align="left" width="540px" height="260px" src="https://github-readme-stats.vercel.app/api?username=pankajdevelops&show_icons=true&locale=en&theme=rose" alt="pankajdevelops" /></p>
+<p>&nbsp;<img align="left" width="520px" height="260px" src="https://github-readme-stats.vercel.app/api?username=pankajdevelops&show_icons=true&locale=en&theme=rose" alt="pankajdevelops" /></p>
 <br/><br/><br/>
 
 <br/><br/><br/>
