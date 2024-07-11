@@ -2,9 +2,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/PankajDevelops/PankajDevelops/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/PankajDevelops/PankajDevelops/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
 
