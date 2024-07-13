@@ -49,7 +49,7 @@
 <a href="https://instagram.com/allen_pankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allen_pankaj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/allenpankajofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="allenpankajofficial" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allen_pankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allen_pankaj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/allen_pankaj/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="allen_pankaj/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/n_pankaj/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="allen_pankaj/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
