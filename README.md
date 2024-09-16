@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <a href="https://motionhitech.in" target="blank"><img src="https://img.shields.io/twitter/follow/motionhitech?logo=twitter&style=for-the-badge" alt="motionhitech" /></a> </p>
+<p align="left"> <a href="https://motionhitech.in" target="_blank"><img src="https://img.shields.io/twitter/follow/motionhitech?logo=twitter&style=for-the-badge" alt="motionhitech" /></a> </p>
 
 - 🔭 I’m currently working on **CareersGrow APP**
 
