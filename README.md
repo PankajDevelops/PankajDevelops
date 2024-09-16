@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://motionhitech.in" target="_blank"><img src="https://img.shields.io/twitter/follow/motionhitech?logo=twitter&style=for-the-badge" alt="motionhitech" /></a> </p>
 
-- 🔭 I’m currently working on **CareersGrow APP**
+- 🔭 I’m currently working on [**CareersGrow APP](https://github.com/PankajDevelops/CareersGrow)
 
-- 🌱 I’m currently learning **Backend DEV**
+- 🌱 I’m currently learning **Backend DEV, SOCKET.IO**
 
 - 👯 I’m looking to collaborate on [Mega Backend APP](https://github.com/PankajDevelops/mega-backend.git)
 
