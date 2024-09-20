@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [**CareersGrow APP**](https://github.com/PankajDevelops/CareersGrow)
 
-- 🌱 I’m currently learning **Backend DEV, SOCKET.IO**
+- 🌱 I’m currently learning **Backend DEV, SOCKET.IO, AI Virtual Assistant**
 
 - 👯 I’m looking to collaborate on [**Mega Backend APP**](https://github.com/PankajDevelops/mega-backend.git)
 
