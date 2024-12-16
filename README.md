@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://www.instagram.com/motionhitech/" target="_blank"><img src="https://img.shields.io/twitter/follow/motionhitech?logo=twitter&style=for-the-badge" alt="motionhitech" /></a> </p>
 
 
-- 🔭 I’m currently working on [**CareersGrow APP**](https://github.com/PankajDevelops/CareersGrow)
+- 🔭 I’m currently working on [**AuraSense AI-VoiceAssistant APP**](https://github.com/PankajDevelops/AuraSense)
 
-- 🌱 I’m currently learning **Backend DEV, SOCKET.IO, AI Virtual Assistant**
+- 🌱 I’m currently learning **REACT, CloudBasics, Basics of GenAI **
 
 - 👯 I’m looking to collaborate on [**Mega Backend APP**](https://github.com/PankajDevelops/mega-backend.git)
 
